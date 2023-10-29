@@ -2,7 +2,7 @@
 
 ### about me
 hello! I'm a high school student (they/them) who codes random stuff, sometimes. currently i'm working on: 
-- a [service](https://github.com/phthallo/toyhouse-character-checker) to retrieve character interations on [toyhou.se](https://toyhou.se), a character repository website
+- a [service](https://github.com/phthallo/toyhouse-data) to retrieve character interations on [toyhou.se](https://toyhou.se), a character repository website
 - a downloadable [productivity app](https://github.com/phthallo/chillist) in python as my aif output of learning
 - self-learning some uni coursework [comp1511] (:D hoping to study compsci in the future)
 
