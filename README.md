@@ -1,13 +1,8 @@
 ![Space Background](https://github.com/phthallo/phthallo/assets/84078890/675d0204-f631-41bb-b45d-63fe21717e3d)
 
 ### about me
-hello! I'm a high school student (they/them) who codes random stuff, sometimes. currently i'm working on: 
-- a [service](https://github.com/phthallo/toyhouse-data) to retrieve character interations on [toyhou.se](https://toyhou.se), a character repository website
-- a downloadable [productivity app](https://github.com/phthallo/chillist) in python as my aif output of learning
-- self-learning some uni coursework [comp1511] (:D hoping to study compsci in the future)
+hello! I'm a high school student (they/them) who codes random stuff, sometimes. find me at [annabelquach.eu.org](https://annabelquach.eu.org)
 
-i've previously made:
-- [2023] a [cli for downloading fanworks](https://github.com/phthallo/ao3downloader) from the [archive of our own](https://www.transformativeworks.org/) (it's... functional, pun 100% intended)
 ---
 | credits   | what i'm listening to |
 | ------------- | ------------- |
