@@ -2,6 +2,7 @@
 
 ### about me
 hello! I'm a high school student who codes random stuff, sometimes. find me at [annabelquach.eu.org](https://annabelquach.eu.org) or [phthallo.hackclub.app](https://phthallo.hackclub.app)
+
 ---
 | credits   | what i'm listening to |
 | ------------- | ------------- |
