@@ -1,7 +1,7 @@
 ![Space Background](https://github.com/phthallo/phthallo/assets/84078890/675d0204-f631-41bb-b45d-63fe21717e3d)
 
 ### about me
-hello! I'm a high school student who codes random stuff, sometimes. find me at [phthallo.com](https://phthallo.com) and [phthallo.hackclub.app](https://phthallo.hackclub.app)
+hello! I'm a high school student who codes random stuff, sometimes. find me at [phthallo.com](https://phthallo.com) and [terminal.phthallo.com](https://terminal.phthallo.com)
 
 ---
 | credits   | what i'm listening to |
