@@ -6,8 +6,8 @@ hello! I'm a high school student who codes random stuff, sometimes. find me at [
 <details>
   <summary>stats</summary>
   <div align = "center">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U078J6H1XL3&api_domain=waka.hackclub.com&theme=darcula&custom_title=WakaTime%20Stats&layout=compact&langs_count=8" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=phthallo&theme=darcula" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U078J6H1XL3&api_domain=waka.hackclub.com&theme=darcula&custom_title=WakaTime%20Stats&layout=compact&langs_count=8" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=phthallo&theme=darcula" />
   </div>
 </details>
 
