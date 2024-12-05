@@ -5,8 +5,8 @@ hello! I'm a high school student who codes random stuff, sometimes. find me at [
 
 <details>
   <summary>stats</summary>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U078J6H1XL3&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=WakaTime%20Stats&layout=compact&langs_count=8" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phthallo" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U078J6H1XL3&api_domain=waka.hackclub.com&theme=darcula&custom_title=WakaTime%20Stats&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phthallo&theme=darcula" />
 </details>
 
 ---
