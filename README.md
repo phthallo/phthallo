@@ -6,7 +6,7 @@ hey! i'm phthallo - originally from australia, now taking a gap year to do cool 
 <details>
   <summary>stats</summary>
   <div align = "center">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U078J6H1XL3&api_domain=waka.hackclub.com&theme=darcula&custom_title=WakaTime%20Stats&layout=compact&langs_count=8" />
+  <img height=165 align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=10&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=phthallo&theme=darcula" />
   </div>
 </details>
